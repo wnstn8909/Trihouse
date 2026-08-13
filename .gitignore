@@ -10,6 +10,8 @@ tools/
 references/
 docs/superpowers/
 dataset/
+.vscode/
+runs/
 
 # Local documentation archive
 docs/archive/
@@ -26,6 +28,8 @@ docs/agent_plans/
 # files
 *.DS_Store
 *.png
+*.pt
+*.ts
 
 # local secrets and generated database artifacts
 .env
